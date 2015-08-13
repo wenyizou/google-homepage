@@ -1,0 +1,107 @@
+p{
+	color: red;
+}
+
+#center{
+	width:1349px;
+	height: 210px;
+}
+
+#google_logo{
+	width: 269px;
+	height: 95px;
+	margin: auto;
+	border: 1px dashed black;
+	padding-top: 112px;
+	text-align: center;
+	display: block;
+}
+
+#sb_frame{
+	width: 1349px;
+	height: 88px;
+	border:  1px solid black;
+}
+
+#sb_frame_top{
+	width: 1119px;
+	height: 32px;
+	border: 1px dashed black;
+	margin: auto;
+	display: block;
+}
+
+#sb_frame_block{
+	width: 570px;
+	height: 30px;
+	border: 1px solid #d9d9d9;
+	border-top-color: #c0c0c0;
+	margin: auto;
+}
+
+
+
+#vs_frame{
+	width: 29px;
+	height: 28px;
+	border: 1px dashed green;
+	float: right;
+	display: block;
+}
+
+#input_ser{
+	width: 536px;
+	height: 30px;
+	float: left;
+}
+
+#sb_frame_bot{
+	width: 1119px;
+	height: 32px;
+	border: 1px dashed black;
+	margin: auto;
+	margin-top: 5px;
+	display: block;
+	 vertical-align: baseline;
+}
+
+#search_b{
+  background-color: #f1f1f1;
+  font: bold 11px/27px Arial,sans-serif!important;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+  padding: 3px 4px 3px 4px;
+  margin-left: 450px;
+  display: inline-block;
+  vertical-align: baseline;
+
+	/*width: 86px;
+	height: 29px;
+	color:#080808;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	position: relative;
+	margin-left: 380px;
+	display: inline-block; */
+}
+
+#luck{
+	/*width: 116px;
+	height: 29px;
+	color:#080808;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	position: relative;
+	margin-left: 24px;
+	display: inline-block; */
+	 background-color: #f1f1f1;
+  font: bold 11px/27px Arial,sans-serif!important;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+  margin-left: 24px;
+  padding: 3px 4px 3px 4px;
+  display: inline-block;
+  vertical-align: baseline;
+}
